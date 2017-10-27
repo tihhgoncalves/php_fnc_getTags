@@ -1,5 +1,14 @@
 <?
-
+/**
+ * Função em PHP que você parametriza um texto e ele retorna tags
+ * (meta-tags) pra você utilizar no keywords da sua página.
+ *
+ * Versão: 1.0
+ *
+ * @param $texto
+ * @param int $num (default 9)
+ * @return string
+ */
 function tihh_getTags($texto, $num = 9){
 
   $texto = strip_tags($texto);
