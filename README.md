@@ -16,5 +16,6 @@ Função em PHP que você parametriza um texto e ele retorna tags (meta-tags) pr
 ```
 ### Autor
 ![logo](https://raw.githubusercontent.com/tihhgoncalves/tihh.php.fnc.getTags/master/logo.png)
+
 Esse script de PHP foi desenvolvido por Tihh Gonçalves (tiago@tiago.art.br). 
 Mais informações: www.tiago.art.br
