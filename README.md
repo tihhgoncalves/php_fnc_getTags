@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/tihhgoncalves/tihh.php.fnc.getTags/branch/logo.png)
+![logo](https://raw.githubusercontent.com/tihhgoncalves/tihh.php.fnc.getTags/master/logo.png)
 
 # php_fnc_getTags()
 Função em PHP que você parametriza um texto e ele retorna tags (meta-tags) pra você utilizar no keywords da sua página.
@@ -13,4 +13,4 @@ Função em PHP que você parametriza um texto e ele retorna tags (meta-tags) pr
   echo($tags); //mundo,como,vai...
   
 ### Autor
-Esse script de PHP foi desenvolvido por Tihh Gonçalves (tiago@tiago.art.br). 
+Esse script de PHP foi desenvolvido por Tihh Gonçalves (tiago@tiago.art.br). Mais informações: www.tiago.art.br
