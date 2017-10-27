@@ -8,9 +8,10 @@ Função em PHP que você parametriza um texto e ele retorna tags (meta-tags) pr
  * ```$num``` = Número de palavras que ele irá retornar *(padrão: 9)*
 
 ### Exemplo
+```
   $texto - 'Olá mundo cruel. Como vai o mundo? Como vai?';
   $tags = php_fnc_getTags($texto);
   echo($tags); //mundo,como,vai...
-  
+```
 ### Autor
 Esse script de PHP foi desenvolvido por Tihh Gonçalves (tiago@tiago.art.br). Mais informações: www.tiago.art.br
