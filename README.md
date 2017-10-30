@@ -10,9 +10,11 @@ Função em PHP que você parametriza um texto e ele retorna tags (meta-tags) pr
 
 ### Exemplo
 ```
+  <?
   $texto - 'Olá mundo cruel. Como vai o mundo? Como vai?';
   $tags = tihh_getTags($texto);
   echo($tags); //mundo,como,vai...
+  ?>
 ```
 ### Autor
 ![logo](https://raw.githubusercontent.com/tihhgoncalves/tihh.php.fnc.getTags/master/logo.png)
