@@ -21,7 +21,7 @@ P.S.: Caso prefira, você pode fazer o download do projeto manualmente.
 ```
   <?
   
-  required('bower_components/tihh.php.fnc.getTags/load.php');
+  require('bower_components/tihh.php.fnc.getTags/load.php');
   
   $texto - 'Olá mundo cruel. Como vai o mundo? Como vai?';
   $tags = tihh_getTags($texto);
