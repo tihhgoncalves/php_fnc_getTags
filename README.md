@@ -12,7 +12,7 @@ Função em PHP que você parametriza um texto e ele retorna tags (meta-tags) pr
 Para utilizar esse script, utilize o seguinte comando:
 
 ```
-  bower install https://github.com/tihhgoncalves/tihh.php.fnc.getTags.git --save
+  bower install tihh.php.fnc.getTags.git --save
 ```
 
 P.S.: Caso prefira, você pode fazer o download do projeto manualmente.
